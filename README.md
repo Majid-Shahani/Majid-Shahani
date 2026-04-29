@@ -41,7 +41,7 @@ Physics Is my first and forever, curious to know how stuff works and make use of
 </div>
 
 ## Protocol
-contact: majid.shahani03@gmail.com  
-linkedin: linkedin.com/in/majid-shahani
+email: majid.shahani03@gmail.com <br/>
+linkedin: [linkedin.com/in/majid-shahani](https://www.linkedin.com/in/majid-shahani/)
 
 > signal remains stable...
