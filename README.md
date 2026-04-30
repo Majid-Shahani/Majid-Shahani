@@ -3,10 +3,21 @@
 > connection established...
 
 ## Psyche [About]
-Computer engineering student drawn to low-level thinking and high-performance systems. I care more about how something behaves under pressure than how quickly it can be made to work.
+Computer engineering student drawn to low-level thinking and high-performance systems. I care more about how something behaves under pressure than how quickly it can be made to work. I like thinking about the physical realities of our hardware and how data flows through the systems.
 
 ## Religion [Focus]
-Game engine development and real-time rendering. I like thinking about the physical realities of our hardware and how data flows through the systems.
+Game Engine, Real-time rendering and systems programming, such as:
+
+[Game Engine Networking Module](https://github.com/Majid-Shahani/CppNetworkingModule):
+- Implemented a session system using clear state tracking for handshake, heartbeat, timeout, and reconnection, resulting in simple and reliable connection handling for real-time use.
+- Designed a channel system over UDP by splitting traffic into unreliable, reliable, and snapshot paths, resulting in better control over what needs guarantees and what does not.
+- Built a reliability system using sequence numbers and ACK tracking to detect lost packets and resend them, resulting in reliable delivery without using TCP.
+
+[Entity-Component-System architecture](https://github.com/Majid-Shahani/CppNetworkingModule/tree/main/Core/include/ECS):
+- Engineered Structure of Arrays memory layouts, improving CPU cache locality and enabling predictable large-scale entity update performance.
+- Implemented dynamic archetype migration for runtime component add/remove operations, maintaining dense packed storage through structural changes.
+- Developed query and iteration systems across matching archetypes, providing efficient read/write access with explicit mutation policies.
+- Created dirty-state/version tracking for update-based replication, reducing unnecessary network traffic for infrequently changing gameplay data.
 
 ## Distortion [Working on]
 Taking a foray into full stack web development. I welcome the change in perspective, as well as building up the skills to solve more common problems.
@@ -29,7 +40,7 @@ Physics Is my first and forever, curious to know how stuff works and make use of
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <br/>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
