@@ -1,6 +1,6 @@
 <img width="25%" alt="lain-dancing" src="https://media.tenor.com/XLprFoJLe6kAAAAi/lain-serial-experiments-lain.gif" />
 
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&vCenter=true&duration=2500&pause=7500&color=229C07&width=215&height=21&lines=connection+stablished...)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&vCenter=true&duration=2500&pause=7500&color=229C07&width=215&height=21&lines=connection+established...)](https://git.io/typing-svg)
 
 ## Psyche [About]
 Computer engineering student drawn to low-level thinking and high-performance systems. I care more about how something behaves under pressure than how quickly it can be made to work. I like thinking about the physical realities of our hardware and how data flows through the systems.
