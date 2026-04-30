@@ -8,12 +8,16 @@ Computer engineering student drawn to low-level thinking and high-performance sy
 ## Religion [Focus]
 Game Engine, Real-time rendering and systems programming, such as:
 
-[Game Engine Networking Module](https://github.com/Majid-Shahani/CppNetworkingModule):
+- [Game Engine Core](https://github.com/Majid-Shahani/carnival-engine)
+
+### The following are part of [carnival-world](https://github.com/Majid-Shahani/carnival-world/):
+
+[carnival-world: Game Engine Networking Module](https://github.com/Majid-Shahani/carnival-world/blob/main/Networking.md):
 - Implemented a session system using clear state tracking for handshake, heartbeat, timeout, and reconnection, resulting in simple and reliable connection handling for real-time use.
 - Designed a channel system over UDP by splitting traffic into unreliable, reliable, and snapshot paths, resulting in better control over what needs guarantees and what does not.
 - Built a reliability system using sequence numbers and ACK tracking to detect lost packets and resend them, resulting in reliable delivery without using TCP.
 
-[Entity-Component-System architecture](https://github.com/Majid-Shahani/CppNetworkingModule/tree/main/Core/include/ECS):
+[carnival-world: Entity-Component-System](https://github.com/Majid-Shahani/carnival-world/blob/main/ECS.md):
 - Engineered Structure of Arrays memory layouts, improving CPU cache locality and enabling predictable large-scale entity update performance.
 - Implemented dynamic archetype migration for runtime component add/remove operations, maintaining dense packed storage through structural changes.
 - Developed query and iteration systems across matching archetypes, providing efficient read/write access with explicit mutation policies.
