@@ -1,6 +1,6 @@
 <img width="25%" alt="lain-dancing" src="https://media.tenor.com/XLprFoJLe6kAAAAi/lain-serial-experiments-lain.gif" />
 
-> connection established...
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&vCenter=true&duration=2500&pause=7500&color=229C07&width=215&height=21&lines=connection+stablished...)](https://git.io/typing-svg)
 
 ## Psyche [About]
 Computer engineering student drawn to low-level thinking and high-performance systems. I care more about how something behaves under pressure than how quickly it can be made to work. I like thinking about the physical realities of our hardware and how data flows through the systems.
@@ -55,4 +55,4 @@ Physics Is my first and forever, curious to know how stuff works and make use of
 email: majid.shahani03@gmail.com <br/>
 linkedin: [linkedin.com/in/majid-shahani](https://www.linkedin.com/in/majid-shahani/)
 
-> signal remains stable...
+> [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=5500&color=229C07&random=true&height=21&vCenter=true&width=435&lines=signal+remains+stable...;signal+remains+stable...;signal+remains+stable...;signal+remains+stable...;for+now...)](https://git.io/typing-svg)
