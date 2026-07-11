@@ -26,7 +26,7 @@ Game Engine, Real-time rendering and systems programming, such as:
 ## Distortion [Working on]
 Taking a foray into full stack web development. I welcome the change in perspective, as well as building up the skills to solve more common problems.
 <br/>
-I plan to explore user space RCU, database engines, data-oriented design, and Rust in operating systems in the near future.
+I plan to explore [user space RCU](https://github.com/Majid-Shahani/qsbr-rcu), database engines, data-oriented design, and Rust in operating systems in the near future.
 
 ## Society
 Open to collaboration on graphics, systems programming, engine tooling, or game programming. Anything where creativity in architecture and design, or performance-centric thinking is needed, sounds lovely.
