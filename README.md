@@ -15,7 +15,7 @@ Game Engine, Real-time rendering and systems programming, such as:
 - Structured publish() to allocate the retirement slot before swapping the pointer, resulting in a noexcept operation with a strong exception guarantee.
 - Specified the concurrency contract for writer and reader threads, resulting in clear usage rules for a library with no runtime misuse detection.
 
-- [Game Engine Core](https://github.com/Majid-Shahani/carnival-engine)
+[Game Engine Core](https://github.com/Majid-Shahani/carnival-engine)
 
 ### The following are part of [carnival-world](https://github.com/Majid-Shahani/carnival-world/):
 
