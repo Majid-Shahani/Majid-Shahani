@@ -8,6 +8,13 @@ Computer engineering student drawn to low-level thinking and high-performance sy
 ## Religion [Focus]
 Game Engine, Real-time rendering and systems programming, such as:
 
+[user space RCU: Quiescent-State-Based Reclamation in C++23](https://github.com/Majid-Shahani/qsbr-rcu)
+- Designed a lock-free read path using generation checkpoints instead of per-access hazard pointers, resulting in near-zero reader overhead.
+- Implemented safe memory reclamation by freeing retired values older than the oldest active reader’s checkpoint, resulting in deterministic cleanup without reference counting.
+- Built an active/inactive reader state using per-slot flags, resulting in stalled or exiting readers that no longer block reclamation.
+- Structured publish() to allocate the retirement slot before swapping the pointer, resulting in a noexcept operation with a strong exception guarantee.
+- Specified the concurrency contract for writer and reader threads, resulting in clear usage rules for a library with no runtime misuse detection.
+
 - [Game Engine Core](https://github.com/Majid-Shahani/carnival-engine)
 
 ### The following are part of [carnival-world](https://github.com/Majid-Shahani/carnival-world/):
@@ -24,9 +31,9 @@ Game Engine, Real-time rendering and systems programming, such as:
 - Created dirty-state/version tracking for update-based replication, reducing unnecessary network traffic for infrequently changing gameplay data.
 
 ## Distortion [Working on]
-Taking a foray into full stack web development. I welcome the change in perspective, as well as building up the skills to solve more common problems.
+A discrete-event simulator that finds bottlenecks in production lines and ranks fixes by the output they recover, built around data-oriented design. Alongside it, a model-checking study of how relaxed the memory orderings of a recent lock-free hazard-pointer list can be.
 <br/>
-I plan to explore [user space RCU](https://github.com/Majid-Shahani/qsbr-rcu), database engines, data-oriented design, and Rust in operating systems in the near future.
+Full stack web, database engines, and Rust in operating systems are on the shelf for now. I’ll be back to them, but not for a while.
 
 ## Society
 Open to collaboration on graphics, systems programming, engine tooling, or game programming. Anything where creativity in architecture and design, or performance-centric thinking is needed, sounds lovely.
